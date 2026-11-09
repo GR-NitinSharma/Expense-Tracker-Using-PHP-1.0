@@ -240,5 +240,5 @@ All responses are JSON objects with a `success` boolean.
 
 ---
 
-*Submitted for Web Technologies Major Project — Academic Year 2026*
+*Thank you for exploring Gravity! Take control of your finances, track your expenses, and make smarter financial decisions.*
 
