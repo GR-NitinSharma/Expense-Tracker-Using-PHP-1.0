@@ -1,13 +1,9 @@
 # 💰 Personal Expense Tracker
 ### Web Technologies Major Project
 
----
-
 ## 📋 Project Overview
 
 A full-stack **Personal Expense Tracker** web application built with **HTML5, CSS3, JavaScript, PHP, and MySQL**. Users can register, log in, add/edit/delete expenses, filter and search, and view spending analytics with charts.
-
----
 
 ## ✅ Project Requirements Checklist
 
@@ -20,8 +16,6 @@ A full-stack **Personal Expense Tracker** web application built with **HTML5, CS
 | Search Functionality | ✅ Done | Search by title/notes, filter by category & month |
 | Update & Delete | ✅ Done | Edit modal, delete confirmation dialog |
 | Testing & Debugging | ✅ Done | Error handling, toast notifications |
-
----
 
 ## 📁 File Structure
 
@@ -42,8 +36,6 @@ expense-tracker/
 └── includes/
     └── db.php              ← MySQL connection configuration
 ```
-
----
 
 ## 🛠️ Technologies Used
 
